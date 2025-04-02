@@ -30,6 +30,10 @@ The dashboard highlights the following core KPIs:
 4. Medium-sized outlets in Tier 3 locations demonstrate the highest profitability
 5. Supermarkets drive higher sales volumes, while grocery stores achieve better item visibility
 
+### Dashboard
+![Architecture Diagram](BlinkIt Sales Analysis Dashboard (1).png)
+
+
 ## Note
 
 This analysis is conducted as part of a project for educational purposes only.
