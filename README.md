@@ -31,7 +31,7 @@ The dashboard highlights the following core KPIs:
 5. Supermarkets drive higher sales volumes, while grocery stores achieve better item visibility
 
 ### Dashboard
-![Architecture Diagram](BlinkIt Sales Analysis Dashboard (1).png)
+![Architecture Diagram](BlinkIt%20Sales%20Analysis%20Dashboard%20(1).png)
 
 
 ## Note
